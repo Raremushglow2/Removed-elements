@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Exotic arachnarock_0: -5588607332418032064
+      Exotic arachnarock_1: -1244796830615204877
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
