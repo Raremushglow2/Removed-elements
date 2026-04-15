@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a5e6fedc2472449cead18ef23b5cb30d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Library:
+  - m_Name: Alternizator
+    m_Hash: 115533885
+    m_CategoryList: []
+    m_OverrideEntries:
+    - m_Name: full
+      m_Hash: 545248416
+      m_Sprite: {fileID: 7108340638864871560, guid: 5d795284a0fe3364a95b0eca34fe6c32, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 7108340638864871560, guid: 5d795284a0fe3364a95b0eca34fe6c32, type: 3}
+    - m_Name: small
+      m_Hash: 893774355
+      m_Sprite: {fileID: -8529870132945791769, guid: 76d439d77929a3f44995039ba74c8430, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: -8529870132945791769, guid: 76d439d77929a3f44995039ba74c8430, type: 3}
+    - m_Name: medium
+      m_Hash: 108217783
+      m_Sprite: {fileID: 2305198801366736062, guid: d5767b7a195f3c54dab5887690caa59c, type: 3}
+      m_FromMain: 0
+      m_SpriteOverride: {fileID: 2305198801366736062, guid: d5767b7a195f3c54dab5887690caa59c, type: 3}
+    m_FromMain: 0
+    m_EntryOverrideCount: 3
+  m_PrimaryLibraryGUID: 
+  m_ModificationHash: 639117102681735811
+  m_Version: 1
